@@ -1,4 +1,4 @@
-# StockPredictionML
+# StockPredictionML (For inetraction use this link: https://stockpredictionml-xktt85w5hghscgcaonkkih.streamlit.app/)
 This application is a Stock Market Predictor built using Python, Streamlit, and Keras. It enables users to visualize historical stock data, compare prices against moving averages, and predict future stock prices using a machine learning model.
 
 How to Use the Application
