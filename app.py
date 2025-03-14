@@ -9,7 +9,7 @@ from sklearn.preprocessing import MinMaxScaler
 import matplotlib.pyplot as plt
 
 # Load the trained Keras model
-model = load_model("C:/Users/mihir/OneDrive/Desktop/Projects'UIC/StockPricePrediction/StockPrediction.keras")
+model = load_model("StockPrediction.keras")
 
 # Streamlit App Title
 st.header('Stock Market Predictor')
